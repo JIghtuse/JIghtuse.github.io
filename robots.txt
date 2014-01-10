@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://JIghtuse.github.io/sitemap.xml 
+Sitemap: http://jightuse.github.io/sitemap.xml 
