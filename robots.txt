@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://jightuse.github.io/sitemap.xml 
