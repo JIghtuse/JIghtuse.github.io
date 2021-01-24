@@ -21,33 +21,55 @@ h1, h2, h3, h4 {
   text-align: center;
 }
 
-@media all and (min-width: 900px) {
-  body {
-    font-size: 2.6em;
-  }
-
-  #wrapper {
-    border: 1px gray solid;
-    padding-left: 50px;
-    padding-right: 50px;
-  }
-}
-
 #wrapper {
   background: white;
+  border: 1px gray solid;
   margin: 0 auto;
   text-align: justify;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
-/*@media screen and (min-width: 800px) {*/
-@media only screen and (min-width: 1200px) {
+@media all and (min-width: 300px) {
+  body {
+    font-size: 0.9em;
+  }
+}
+
+@media all and (min-width: 480px) {
   body {
     font-size: 1.3em;
   }
+
   #wrapper {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+@media all and (min-width: 900px) {
+  body {
+    font-size: 1.6em;
+  }
+
+  #wrapper {
+    border: none;
+    width: 800px;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+}
+
+@media all and (min-width: 1200px) {
+  body {
+    font-size: 1.6em;
+  }
+
+  #wrapper {
+    border: none;
     width: 900px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 3em;
+    padding-right: 3em;
   }
 }
 
