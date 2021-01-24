@@ -122,7 +122,8 @@ pre code {
   text-align: center;
 }
 
-.responsive-image {
+img {
   width: 100%;
   height: auto;
+  aspect-ratio: attr(width) / attr(height);
 }
