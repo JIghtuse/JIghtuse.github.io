@@ -10,7 +10,7 @@ a bunch of Octocat stickers. Stuck one on my notebook, one on my front door and
 gave a few to a friends. Pretty cute little things. Definitely, Github has gained
 so much popularity thanks to mascot.
 
-![Octocats](/assets/images/octocats.jpeg){:width="2602px" height="1952px"}
+![Octocats](/assets/images/octocats.jpeg)
 
 Now for the code. As you may know, recently [Rust 0.9 had released](http://www.rust-lang.org/).
 Today I was updating code in my small
