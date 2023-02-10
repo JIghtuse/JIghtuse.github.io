@@ -2,7 +2,7 @@
 layout: post
 title: "Kotlin BFS template"
 date: 2023-02-09 22:28:00 +0600
-categories: [leetcode, Kotlin]
+tags: leetcode Kotlin
 ---
 I've used Kotlin for a month to solve [Advent of code 2022](https://adventofcode.com/),
 and the next few months to solve some leetcode problems.

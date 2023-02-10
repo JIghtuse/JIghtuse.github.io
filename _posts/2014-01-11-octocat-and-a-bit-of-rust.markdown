@@ -3,7 +3,7 @@ layout: post
 title: "Octocat and a bit of Rust"
 date: 2014-01-11 03:17:13 +0700
 comments: true
-categories: [Github, Octocat, Rust]
+tags: Github Octocat Rust
 ---
 After month of waiting[^1] I have finally received package from GitHub Shop with
 a bunch of Octocat stickers. Stuck one on my notebook, one on my front door and
