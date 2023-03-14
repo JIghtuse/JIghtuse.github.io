@@ -1,0 +1,26 @@
+---
+layout: default
+title: Wishlist
+---
+<h1>Wishlist</h1>
+
+{% for item in site.data.wishlist.items %}
+<article>
+    <h2>{{ item.name }}</h2>
+    <img src="assets/images/{{ item.image }}"/>
+
+    <p>{{ item.description }}</p>
+    {% if item.links and item.links.size != 0 %}
+    <p>
+    Links:
+        <ul>
+        {% for link in item.links %}
+        <li>
+            <a href="{{ link.url }}">{{ link.name }} </a>
+        </li>
+        {% endfor %}
+        </ul>
+    </p>
+    {% endif %}
+</article>
+{% endfor %}

@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "name": "Худший из людей Икс",
+      "description": "Комикс Marvel.",
+      "image": "worst_x_men.webp",
+      "links": [
+        {
+          "url": "https://www.ozon.ru/product/lyudi-iks-hudshiy-iz-lyudey-iks-bimis-maks-266903726",
+          "name": "ozon"
+        },
+        {
+          "url": "https://secretgalaxy.ru/lyudi-iks.-hudshij-iz-lyudej-iks",
+          "name": "Секретная галактика"
+        }
+      ]
+    },
+    {
+      "name": "Муми-тролли том 1",
+      "description": "Комикс Zangavar.",
+      "image": "mumin_01.webp",
+      "links": [
+        {
+          "url": "https://www.ozon.ru/product/mumi-trolli-polnoe-sobranie-komiksov-tom-1-1954-1959-gody-tuve-yansson-815440798",
+          "name": "ozon"
+        }
+      ]
+    },
+    {
+      "name": "Gropius (Taschen Basic Art)",
+      "description": "Книга по искусству. Вообще подойдёт любая из этой серии, кроме Klimt — он у меня есть.",
+      "image": "gropius.jpg",
+      "links": [
+        {
+          "url": "https://www.marwin.kz/arhitektura-18585/gropius.html",
+          "name": "Marwin"
+        },
+        {
+          "url": "https://www.ozon.ru/product/gropius-lupfer-gilbert-821256159/",
+          "name": "ozon"
+        }
+      ]
+    },
+    {
+      "name": "Cezanne (Taschen Basic Art)",
+      "description": "Книга по искусству. Вообще подойдёт любая из этой серии, кроме Klimt — он у меня есть.",
+      "image": "cezanne.jpg",
+      "links": [
+        {
+          "url": "https://www.marwin.kz/art-history/cezanne.html",
+          "name": "Marwin"
+        },
+        {
+          "url": "https://www.ozon.ru/product/cezanne-797235187/",
+          "name": "ozon"
+        }
+      ]
+    },
+    {
+      "name": "NFC теги/метки",
+      "description": "В общем-то любые минималистичные (наклейки), штук 10–15.",
+      "image": "nfc-tags.webp",
+      "links": [
+        {
+          "url": "https://www.ozon.ru/product/nfc-metki-487099890",
+          "name": "ozon"
+        }
+      ]
+    },
+    {
+      "name": "Футболки",
+      "image": "t-shirt.jpg",
+      "description": "Какие-нибудь симпатичные удобные футболки 🙂",
+      "links": []
+    }
+  ]
+}
