@@ -16,17 +16,6 @@
       ]
     },
     {
-      "name": "Муми-тролли том 1",
-      "description": "Комикс Zangavar.",
-      "image": "mumin_01.webp",
-      "links": [
-        {
-          "url": "https://www.ozon.ru/product/mumi-trolli-polnoe-sobranie-komiksov-tom-1-1954-1959-gody-tuve-yansson-815440798",
-          "name": "ozon"
-        }
-      ]
-    },
-    {
       "name": "Gropius (Taschen Basic Art)",
       "description": "Книга по искусству. Вообще подойдёт любая из этой серии, кроме Klimt — он у меня есть.",
       "image": "gropius.jpg",
@@ -37,21 +26,6 @@
         },
         {
           "url": "https://www.ozon.ru/product/gropius-lupfer-gilbert-821256159/",
-          "name": "ozon"
-        }
-      ]
-    },
-    {
-      "name": "Cezanne (Taschen Basic Art)",
-      "description": "Книга по искусству. Вообще подойдёт любая из этой серии, кроме Klimt — он у меня есть.",
-      "image": "cezanne.jpg",
-      "links": [
-        {
-          "url": "https://www.marwin.kz/art-history/cezanne.html",
-          "name": "Marwin"
-        },
-        {
-          "url": "https://www.ozon.ru/product/cezanne-797235187/",
           "name": "ozon"
         }
       ]
