@@ -2,25 +2,32 @@
 layout: default
 title: Wishlist
 ---
-<h1>Wishlist</h1>
-
-{% for item in site.data.wishlist.items %}
-<article>
-    <h2>{{ item.name }}</h2>
-    <img src="assets/images/{{ item.image }}"/>
-
-    <p>{{ item.description }}</p>
-    {% if item.links and item.links.size != 0 %}
-    <p>
-    Links:
-        <ul>
-        {% for link in item.links %}
-        <li>
-            <a href="{{ link.url }}">{{ link.name }} </a>
-        </li>
-        {% endfor %}
-        </ul>
-    </p>
-    {% endif %}
-</article>
+{% for block in site.data.wishlist %}
+    <h1>{{ block.name }}</h1>
+    {% for item in block.items %}
+        <article>
+            <h2>{{ item.name }}</h2>
+            <p>{{ item.description }}</p>
+            {% for image_description in item.images %}
+                <figure style="display: inline-block; width: 200px;">
+                    <img src="{{ image_description.url }}"/>
+                    {% if image_description.description %}
+                    <figcaption>{{ image_description.description }}</figcaption>
+                    {% endif %}
+                </figure>
+            {% endfor %}
+            {% if item.links and item.links.size != 0 %}
+            <p>
+            Links:
+                <ul>
+                {% for link in item.links %}
+                <li>
+                    <a href="{{ link.url }}">{{ link.name }} </a>
+                </li>
+                {% endfor %}
+                </ul>
+            </p>
+            {% endif %}
+        </article>
+    {% endfor %}
 {% endfor %}

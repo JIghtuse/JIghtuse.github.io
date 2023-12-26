@@ -1,51 +1,154 @@
-{
-  "items": [
-    {
-      "name": "Худший из людей Икс",
-      "description": "Комикс Marvel.",
-      "image": "worst_x_men.webp",
-      "links": [
-        {
-          "url": "https://www.ozon.ru/product/lyudi-iks-hudshiy-iz-lyudey-iks-bimis-maks-266903726",
-          "name": "ozon"
-        },
-        {
-          "url": "https://secretgalaxy.ru/lyudi-iks.-hudshij-iz-lyudej-iks",
-          "name": "Секретная галактика"
-        }
-      ]
-    },
-    {
-      "name": "Gropius (Taschen Basic Art)",
-      "description": "Книга по искусству. Вообще подойдёт любая из этой серии, кроме Klimt — он у меня есть.",
-      "image": "gropius.jpg",
-      "links": [
-        {
-          "url": "https://www.marwin.kz/arhitektura-18585/gropius.html",
-          "name": "Marwin"
-        },
-        {
-          "url": "https://www.ozon.ru/product/gropius-lupfer-gilbert-821256159/",
-          "name": "ozon"
-        }
-      ]
-    },
-    {
-      "name": "NFC теги/метки",
-      "description": "В общем-то любые минималистичные (наклейки), совместимые с Android и iOS. Штук 10–15.",
-      "image": "nfc-tags.webp",
-      "links": [
-        {
-          "url": "https://www.ozon.ru/product/nfc-metki-487099890",
-          "name": "ozon"
-        }
-      ]
-    },
-    {
-      "name": "Футболки",
-      "image": "t-shirt.jpg",
-      "description": "Какие-нибудь симпатичные удобные футболки 🙂",
-      "links": []
-    }
-  ]
-}
+[
+  {
+    "name": "Wishlist",
+    "items": [
+      {
+        "name": "Цацки",
+        "description": "Серьги, кулоны",
+        "images": [
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwe42ad6d6/images/large/01_68119740_1.jpg?sw=940&sh=1204&sm=cut"
+          },
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw7af232d6/images/large/01_58173291_2.jpg?sw=940&sh=1204&sm=cut"
+          },
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw5928f5e6/images/large/01_68126081_1.jpg?sw=940&sh=1204&sm=cut"
+          },
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw67e8ca98/images/large/01_68125081_1.jpg?sw=940&sh=1204&sm=cut"
+          },
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw9a267d2c/images/large/01_48206781_1.jpg?sw=940&sh=1204&sm=cut"
+          },
+          {
+            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw7afbffb3/images/large/01_68239135_2.jpg?sw=940&sh=1204&sm=cut"
+          }
+        ]
+      },
+      {
+        "name": "Картриджи чернильные Parker",
+        "description": "Чёрные или какие-нибудь весёлые (зелёные). Не синие.",
+        "images": [
+          {
+            "url": "https://resources.cdn-kaspi.kz/img/m/p/h3f/h45/64026469597214.jpg?format=gallery-medium"
+          }
+        ],
+        "links": [
+          {
+            "name": "Kaspi",
+            "url": "https://kaspi.kz/shop/p/kartridzhi-chernil-nye-parker-cartridge-quink-chernye-5sht-kartonnaja-korobka-101113845/?c=750000000"
+          }
+        ]
+      },
+      {
+        "name": "Смешные носки",
+        "description": "",
+        "images": [
+          {
+            "url": "https://th.bing.com/th/id/OIP.D3dGMfssj1Laz88pyy2VUwHaHa?rs=1&pid=ImgDetMain"
+          },
+          {
+            "url": "https://th.bing.com/th/id/OIP.GP1wegGc6ReAD7dl75PhkwHaJ4?rs=1&pid=ImgDetMain"
+          },
+          {
+           "url": "https://th.bing.com/th/id/R.409670eb456018597cc8ea988748c1a8?rik=2ZOU8NS3PSOyZg&pid=ImgRaw&r=0"
+          }
+        ]
+      },
+      {
+        "name": "Блокнот Leuchtturm1917 (в клеточку)",
+        "description": "Любого цвета, размер A5 или A6.",
+        "images": [
+          {
+            "url": "https://resources.cdn-kaspi.kz/img/m/p/he0/h2e/84538928431134.jpg?format=gallery-large"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://kaspi.kz/shop/p/bloknot-leuchtturm1917-black-a6-185-l-v-tochku-114747498/?c=750000000",
+            "name": "Kaspi"
+          }
+        ]
+      },
+      {
+        "name": "Плёнка для INSTAX square",
+        "description": "типа полароид которая 🙂",
+        "images": [
+          {
+            "url": "https://simg.marwin.kz/media/catalog/product/cache/41deb699a7fea062a8915debbbb0442c/4/5/plenka_instax_square_ww_102pk_dmomentsnimkov.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.marwin.kz/digital-technique/fotoapparaty/fotoapparaty-momental-noj-pechati/plenka-instax-square-ww-10-2pk-d-moment-snimkov.html",
+            "name": "Marwin"
+          }
+        ]
+      },
+      {
+        "name": "Небольшой набор LEGO",
+        "description": "Один из этих или любой-любой другой.",
+        "images": [
+          {
+            "url": "https://simg.marwin.kz/media/catalog/product/cache/8d1771fdd19ec2393e47701ba45e606d/6/0/lego_parkovka_traktora_city_60390_1.jpg"
+          },
+          {
+            "url": "https://simg.marwin.kz/media/catalog/product/cache/8d1771fdd19ec2393e47701ba45e606d/4/1/lego_komnata_leo_friends_41754_1.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.marwin.kz/city/lego-parkovka-traktora-city-60390.html",
+            "name": "Marwin — LEGO City с трактором и белкой"
+          },
+          {
+            "url": "https://www.marwin.kz/friends/lego-komnata-leo-friends-41754.html",
+            "name": "Marwin — LEGO Friends с котом"
+          }
+        ]
+      },
+      {
+        "name": "Свечи с запахами",
+        "description": "",
+        "images": [
+          {
+            "url": "https://aroma-interior.ru/image/catalog/banners/stoneglowcandleslondon-28012021-0001.jpg"
+          },
+          {
+            "url": "https://mylitta.ru/uploads/posts/2014-12/1418368717_aromatic-candles-2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Гель для душа",
+        "description": "Нравятся запахи: кокос, жожоба, папайя, ваниль, цитрус, пачули, амбра. Не нравятся: лаванда."
+      },
+      {
+        "name": "Футболки",
+        "images": [
+          {
+            "url": "https://vangogh.teespring.com/v3/image/53rhmZjoog3g0MaJr99SlZb2KWM/800/800.jpg"
+          }
+        ],
+        "description": "Какие-нибудь симпатичные удобные футболки размера M 🙂",
+        "links": []
+      }
+    ]
+  },
+  {
+    "name": "Anti-Wishlist",
+    "items": [
+      {
+        "name": "Нечто огромное",
+        "description": "Типа микроволновой печи или соляной лампы 600 кг"
+      },
+      {
+        "name": "Кружки"
+      },
+      {
+        "name": "Ёлочные игрушки"
+      }
+    ]
+  }
+]
