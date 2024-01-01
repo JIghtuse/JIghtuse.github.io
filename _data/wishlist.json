@@ -3,30 +3,6 @@
     "name": "Wishlist",
     "items": [
       {
-        "name": "Цацки",
-        "description": "Серьги, кулоны",
-        "images": [
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dwe42ad6d6/images/large/01_68119740_1.jpg?sw=940&sh=1204&sm=cut"
-          },
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw7af232d6/images/large/01_58173291_2.jpg?sw=940&sh=1204&sm=cut"
-          },
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw5928f5e6/images/large/01_68126081_1.jpg?sw=940&sh=1204&sm=cut"
-          },
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw67e8ca98/images/large/01_68125081_1.jpg?sw=940&sh=1204&sm=cut"
-          },
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw9a267d2c/images/large/01_48206781_1.jpg?sw=940&sh=1204&sm=cut"
-          },
-          {
-            "url": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw7afbffb3/images/large/01_68239135_2.jpg?sw=940&sh=1204&sm=cut"
-          }
-        ]
-      },
-      {
         "name": "Картриджи чернильные Parker",
         "description": "Чёрные или какие-нибудь весёлые (зелёные). Не синие.",
         "images": [
@@ -42,8 +18,15 @@
         ]
       },
       {
+        "name": "Помада NYX оттенка Leon",
+        "images": [
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/71wqHwidqaL._AC_SX679_.jpg"
+          }
+        ]
+      },
+      {
         "name": "Смешные носки",
-        "description": "",
         "images": [
           {
             "url": "https://th.bing.com/th/id/OIP.D3dGMfssj1Laz88pyy2VUwHaHa?rs=1&pid=ImgDetMain"
@@ -88,7 +71,6 @@
             "name": "Уничтожь меня везде! | Marwin"
           }
         ]
-
       },
       {
         "name": "Небольшой набор LEGO",
@@ -111,22 +93,6 @@
             "name": "Marwin — LEGO Friends с котом"
           }
         ]
-      },
-      {
-        "name": "Свечи с запахами",
-        "description": "",
-        "images": [
-          {
-            "url": "https://aroma-interior.ru/image/catalog/banners/stoneglowcandleslondon-28012021-0001.jpg"
-          },
-          {
-            "url": "https://mylitta.ru/uploads/posts/2014-12/1418368717_aromatic-candles-2.jpg"
-          }
-        ]
-      },
-      {
-        "name": "Гель для душа",
-        "description": "Нравятся запахи: кокос, жожоба, папайя, ваниль, цитрус, пачули, амбра. Не нравятся: лаванда."
       },
       {
         "name": "Футболки",
