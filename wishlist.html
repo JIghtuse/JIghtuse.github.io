@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wishlist
+lang: ru
 ---
 {% for block in site.data.wishlist %}
     <h1>{{ block.name }}</h1>
@@ -9,7 +10,7 @@ title: Wishlist
             <h2>{{ item.name }}</h2>
             <p>{{ item.description }}</p>
             {% for image_description in item.images %}
-                <figure style="display: inline-block; width: 200px;">
+                <figure style="display: inline-block; width: 30%;">
                     <img src="{{ image_description.url }}"/>
                     {% if image_description.description %}
                     <figcaption>{{ image_description.description }}</figcaption>
