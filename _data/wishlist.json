@@ -3,44 +3,6 @@
     "name": "Wishlist",
     "items": [
       {
-        "name": "Баланс-борд",
-        "description": "Можно любой. Балансировал на подобном в СПб-офисе, очень нравилось 🛹",
-        "images": [
-          {
-            "url": "https://forbalance.ru/blog/wp-content/uploads/2020/08/%D0%B1%D0%BE%D1%80%D0%B4-9.jpg"
-          }
-        ]
-      },
-      {
-        "name": "Комиксы",
-        "description": "Именно вот эти сейчас хочу раздобыть. Вид переплёта/вариация обложки не важна.",
-        "images": [
-          {
-            "url": "https://static.insales-cdn.com/images/products/1/4570/948834778/large_Northern_Spider_TPBcov1.jpg"
-          },
-          {
-            "url": "https://static.insales-cdn.com/images/products/1/7517/934255965/large_sobakistan-sad-cover_.jpg"
-          },
-          {
-            "url": "https://static.insales-cdn.com/images/products/1/7289/900095097/large_Cover-1.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://28oi.ru/product/severnyy-pauk-tv-pereplyot",
-            "name": "Северный паук (вид переплёта не важен)"
-          },
-          {
-            "url": "https://28oi.ru/product/sobakistan-sad-kostey-predzakaz",
-            "name": "Собакистан. Сад костей"
-          },
-          {
-            "url": "https://28oi.ru/product/v-lesnoy-glushi-gde-net-ni-dushi-predzakaz",
-            "name": "В лесной глуши, где нет ни души"
-          }
-        ]
-      },
-      {
         "name": "Raspberry Pi 5",
         "description": "16/8/4 GB — любой. Нравились комплекты с корпусами, но сейчас таких поблизости нет.",
         "images": [
