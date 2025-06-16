@@ -3,8 +3,36 @@
     "name": "Wishlist",
     "items": [
       {
+        "name": "Nintendo Switch 2",
+        "description": "Hope I'll get it some day.",
+        "images": [
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdEbZ2Qxebx5_-E8lkL1LtroQnjsZixLGsQ&s"
+          }
+        ]
+      },
+      {
+        "name": "Obsidian Catalyst license",
+        "description": "I really like Obsidian. Catalyst license helps to support its development and to get access to new features, like Bases.",
+        "images": [
+          {
+            "url": "https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/obsidian-lockup-help.svg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://help.obsidian.md/catalyst",
+            "name": "About the license"
+          }
+        ]
+      },
+      {
+        "name": "Travel-ready oral irrigator",
+        "description": "Any common model is fine"
+      },
+      {
         "name": "Raspberry Pi 5",
-        "description": "16/8/4 GB — любой. Нравились комплекты с корпусами, но сейчас таких поблизости нет.",
+        "description": "16/8/4 GB — any one.",
         "images": [
           {
             "url": "https://ampermarket.kz/wp-content/uploads/prod_pi-5-8gb_01.jpg"
@@ -12,8 +40,8 @@
         ]
       },
       {
-        "name": "Небольшой набор LEGO",
-        "description": "Любой 🙂",
+        "name": "Small LEGO set",
+        "description": "Any one 🙂",
         "images": [
           {
             "url": "https://simg.marwin.kz/media/catalog/product/cache/8d1771fdd19ec2393e47701ba45e606d/6/0/lego_parkovka_traktora_city_60390_1.jpg"
@@ -24,14 +52,13 @@
         ]
       },
       {
-        "name": "Футболки",
+        "name": "T-shirts",
         "images": [
           {
             "url": "https://vangogh.teespring.com/v3/image/53rhmZjoog3g0MaJr99SlZb2KWM/800/800.jpg"
           }
         ],
-        "description": "Какие-нибудь симпатичные удобные футболки размера M 🙂",
-        "links": []
+        "description": "Some beautiful comfy T-shirts of M size (48) 🙂"
       }
     ]
   },
