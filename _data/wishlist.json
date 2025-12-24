@@ -3,15 +3,6 @@
     "name": "Wishlist",
     "items": [
       {
-        "name": "Nintendo Switch 2",
-        "description": "Hope I'll get it some day.",
-        "images": [
-          {
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdEbZ2Qxebx5_-E8lkL1LtroQnjsZixLGsQ&s"
-          }
-        ]
-      },
-      {
         "name": "Obsidian Catalyst license",
         "description": "I really like Obsidian. Catalyst license helps to support its development and to get access to new features, like Bases.",
         "images": [
@@ -66,14 +57,11 @@
     "name": "Anti-Wishlist",
     "items": [
       {
-        "name": "Нечто огромное",
-        "description": "Типа микроволновой печи или соляной лампы 600 кг"
+        "name": "Something huge",
+        "description": "Like microwave oven"
       },
       {
-        "name": "Кружки"
-      },
-      {
-        "name": "Ёлочные игрушки"
+        "name": "Mugs"
       }
     ]
   }
